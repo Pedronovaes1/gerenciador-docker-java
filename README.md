@@ -1,6 +1,6 @@
 # Copia do docker Desktop 
 
-Uma criação de um dashboard que irá mostrar os container que estão rodando e containers que estão parados em uma servidor docker. Podemos parar, dá start e criar novos containers na aplicação, como também, gerenciar e listar imagens dos containers.
+Uma criação de backend para um dashboard que irá mostrar os container que estão rodando e containers que estão parados em uma servidor docker. Podemos parar, dá start e criar novos containers na aplicação, como também, gerenciar e listar imagens dos containers.
 
 ### 📋 Pré-requisitos
 
