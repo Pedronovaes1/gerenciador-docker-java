@@ -49,4 +49,15 @@ public class DockerService {
     public void createContainer(String imageName){
         dockerClient.createContainerCmd(imageName).exec();
     }
+
+    // Método para criar volumes
+    public void createVolume(){
+        dockerClient.createVolumeCmd().exec();
+    }
+
+    // Limpar volume
+    public void clearVol(String containerId){
+        dockerClient.removeVolumeCmd(containerId).exec();
+    }
+
 }
