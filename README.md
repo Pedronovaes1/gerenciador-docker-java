@@ -1,44 +1,37 @@
-# Copia do docker Desktop 
+# Copy to docker desktop
 
-Uma criação de backend para um dashboard que irá mostrar os container que estão rodando e containers que estão parados em uma servidor docker. Podemos parar, dá start e criar novos containers na aplicação, como também, gerenciar e listar imagens dos containers.
+A backend creation for a dashboard that will show the containers that are running and containers that are stopped on a docker server. We can stop, start and create new containers in the application, as well as manage and list container images.
 
-### 📋 Pré-requisitos
+### 📋 Prerequisites
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+What things do you need to install the software and how to install it?
 
 ```
 JDK
 Docker
-API do docker Java
+API docker Java
 Spring
 Apache Docker HTTP client
 ```
 
-## 🛠️ Construído com
+## 🛠️ Built with
 
-Mencione as ferramentas que você usou para criar seu projeto
+Mention the tools you used to build your project
 
-* [Spring Boot](https://spring.io/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [API Docker Java](https://github.com/docker-java/docker-java) - Usada para gerar os clientes docker e os endpointer
-* Java - Liguagem de programação 
-
-## 📌 Versão
+* [Spring Boot](https://spring.io/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Manager
+* [Docker Java API](https://github.com/docker-java/docker-java) - Used to build docker clients and endpoints
+* Java - Programming language
+  
+## 📌 Version
 
 Foi usado [Git](https://git-scm.com/docs/git/pt_BR) para controle de versão.
 
-## ✒️ Autores
+## ✒️ Authors
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Dsenvolvedor** - [Pedro Novaes](https://www.linkedin.com/in/pedrocnovaes/)
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-
+* **Developer** - [Pedro Novaes](https://www.linkedin.com/in/pedrocnovaes/)
 
 
 ---
-⌨️ Feito por [Pedro Henrique Carvalho](https://www.linkedin.com/in/pedrocnovaes/) 😊
+⌨️ Made by [Pedro Henrique Carvalho](https://www.linkedin.com/in/pedrocnovaes/) 😊
